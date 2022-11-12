@@ -1,0 +1,23 @@
+{
+  "name": "khiaoticreadme",
+  "version": "1.0.0",
+  "description": "a nodejs generated read me file to use repeatedly for different projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khiaotic/khiaoticReadMe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khiaotic/khiaoticReadMe/issues"
+  },
+  "homepage": "https://github.com/Khiaotic/khiaoticReadMe#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
