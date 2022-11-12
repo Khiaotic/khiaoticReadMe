@@ -1,10 +1,11 @@
 <h1 align="center">${answers.projectTitle} </h1>
 
 
-! [badge](https://shields.ioi/bagde/license-${answers.license}-brightgreen)<br />
-This application is  covered by the ${answers.}
+! [badge](https://shields.ioi/bagde/license-${answers.license}-yellow)<br />
+This application is  covered by the ${answers.license}
 
 ## Overview (description)
+${answers.description}
 
 
 ## 👁️Preview
@@ -23,6 +24,8 @@ This application is  covered by the ${answers.}
 
 ## 📃Installation
 To clone and use this application, you'll need Git and Node.js (npm equipped) installed on your computer
+
+
 ## 🧰Usage
 ```diff
 #purple
