@@ -4,7 +4,7 @@ a nodejs generated ReadMe file to use repeatedly for different projects
 
 
 # The application will be invoked by using the following command:
-
+node index.js
 
 
 ## User Story

@@ -23,16 +23,18 @@ Link to Demo:
 -[Questions](#questions)
 
 
-## 📃Installation
+## 💢📃Installation
 To clone and use this application, you'll need Git and Node.js (npm equipped) installed on your computer
 
 
 ## 🧰Usage
+${response.usage}
 
 ## 🏠Contributors
+${response.contribute}
 
 ## 🧪Tests
-Are tests included in this  application?:
+Are tests included in this  application?: ${response.tests}
 
 
 ## 🤔Questions
