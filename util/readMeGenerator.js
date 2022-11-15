@@ -9,7 +9,7 @@ function readMeGenerator(response) {
 This application is  covered by the ${response.license}
 
 ## 👀Preview and Demo
-${response.preview} <br />
+ 
 Link to Demo: ${response.demoLink}
 
 
