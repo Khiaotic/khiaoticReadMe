@@ -8,7 +8,7 @@ function readMeGenerator(response) {
 ! [badge](https://shields.ioi/bagde/license-${response.license}-yellow)<br />
 This application is  covered by the ${response.license}
 
-## 👁️Preview
+## Preview
 ![image]()
 
 
@@ -26,9 +26,9 @@ This application is  covered by the ${response.license}
 To clone and use this application, you'll need Git and Node.js (npm equipped) installed on your computer
 
 
-## 🧰✍️Usage
+## 🧰Usage
 
-## 🫱🏽‍🫲🏼Contributors
+##Contributors
 
 ## 🧪Tests
 
