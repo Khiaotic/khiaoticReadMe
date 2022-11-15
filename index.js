@@ -40,7 +40,7 @@ function readMePrompt() {
     {
       type: "input",
       name: "contribute",
-      message: "Contributions always welcomed! Who are the contributors?",
+      message: "Contributions always welcomed! How to Contribute for this Project?",
     },
     {
       type: "input",
@@ -57,7 +57,7 @@ function readMePrompt() {
     {
       type: "input",
       name: "email",
-      message: "What is your professional email? ",
+      message: "What is your professional email address? ",
     },
 
     {
@@ -77,7 +77,7 @@ async function developReadMe() {
     const responseContent = readMeGenerator(response);
     //waits until both functions are completed to write newly created ReadMe file to deploy directory
     await writeMdAsync('./deploy/README.md', responseContent);
-    console.log('✍🏾ReadMe.md SUCCESSFULLY written!');
+    console.log('✅ReadMe.md SUCCESSFULLY written!');
   } catch (err) {
     //catches errors in the process (clean)
     console.log(err);
