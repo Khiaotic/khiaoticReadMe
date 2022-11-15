@@ -21,7 +21,7 @@ SO THAT I can quickly create a professional README for a new project
 
 ## 📋Table of Contents
 -[License](#license) <br />
--[Overview](#description) <br />
+-[Description](#description) <br />
 -[Installation](#installation) <br />
 -[Usage](#usage) <br />
 -[Contributors](#contribute) <br />
@@ -44,7 +44,7 @@ Are tests included in this application?: N/A
 
 
 ## 🤔Questions
-Find me on Github: undefined <br />
+Find me on Github: khiaotic <br />
 <br />
 If you have any questions or concerns please contact me through email: dummyemailtemplate@gmail.com or GitHub
 
