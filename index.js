@@ -29,12 +29,12 @@ function readMePrompt() {
     {
       type: "input",
       name: "installation",
-      message: "Describe the installation process?",
+      message: "What are the installation requirements?",
     },
     {
       type: "input",
       name: "usage",
-      message: "What function does this project serve?",
+      message: "How to run application?",
     },
     {
       type: "list",
