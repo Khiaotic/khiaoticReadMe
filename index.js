@@ -3,7 +3,8 @@ const fs = require("fs");
 const util = require("util");
 const inquirer = require("inquirer");
 
-const generateMarkdown = require(".util/readMeGenerator");
+
+const readMeGenerator = require("./util/readMeGenerator");
 const writeMdAsync = util.promisify(fs.writeFile);
 
 //Prompt questions for user
@@ -13,7 +14,7 @@ function readMePrompt() {
     {
       type: "input",
       name: "projectTitle",
-      message: "What is the title  of your project?",
+      message: "What is the title of your project?",
     },
     {
       type: "input",
@@ -73,10 +74,10 @@ async function developReadMe() {
     //waits until the response from  client  is entered is finished
     const response = await readMePrompt();
     //runs  after  responses are entered and puts in appropriate content in the readMeGenerator file
-    const responseContent = generateMarkdown(response);
+    const responseContent = readMeGenerator(response);
     //waits until both functions are completed to write newly created ReadMe file to deploy directory
-    await writeMdAsync('.deploy/README.md', responseContent);
-    console.log('✍🏾📤ReadMe.md SUCCESSFULLY written!');
+    await writeMdAsync('./deploy/README.md', responseContent);
+    console.log('✍🏾ReadMe.md SUCCESSFULLY written!');
   } catch (err) {
     //catches errors in the process (clean)
     console.log(err);
