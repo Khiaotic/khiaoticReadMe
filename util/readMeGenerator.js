@@ -27,9 +27,7 @@ To clone and use this application, you'll need Git and Node.js (npm equipped) in
 
 
 ## 🧰✍️Usage
-```diff
-#purple
-```
+
 ## 🫱🏽‍🫲🏼Contributors
 
 ## 🧪Tests

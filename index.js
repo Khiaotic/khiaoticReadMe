@@ -1,9 +1,9 @@
 //Packages needed for this application
-const inquirer = require("inquirer");
 const fs = require("fs");
 const util = require("util");
+const inquirer = require("inquirer");
 
-const readMeGenerator = require(".util/readMeGenerator");
+const generateMarkdown = require(".util/readMeGenerator");
 const writeMdAsync = util.promisify(fs.writeFile);
 
 //Prompt questions for user
@@ -72,12 +72,11 @@ async function developReadMe() {
   try {
     //waits until the response from  client  is entered is finished
     const response = await readMePrompt();
-    console.log("Great Job!");
     //runs  after  responses are entered and puts in appropriate content in the readMeGenerator file
-    const responseContent = readMeGenerator(response);
+    const responseContent = generateMarkdown(response);
     //waits until both functions are completed to write newly created ReadMe file to deploy directory
-    await writeMdAsync(".deploy/README.md");
-    console.log("✍🏾📤ReadMe.md SUCCESSFULLY written!");
+    await writeMdAsync('.deploy/README.md', responseContent);
+    console.log('✍🏾📤ReadMe.md SUCCESSFULLY written!');
   } catch (err) {
     //catches errors in the process (clean)
     console.log(err);
