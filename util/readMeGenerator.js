@@ -2,13 +2,13 @@ function readMeGenerator(response) {
     return `
 <h1 align="center">${response.projectTitle} </h1>
 
-## Overview (description)
+## ✨Overview (description)✨
 <h3 align="center">${response.description}</h3>
 
 ! [badge](https://shields.ioi/bagde/license-${response.license}-yellow)<br />
 This application is  covered by the ${response.license}
 
-## Preview and Demo
+## 👀Preview and Demo
 ![image]()
 Link to Demo: 
 
@@ -29,11 +29,13 @@ To clone and use this application, you'll need Git and Node.js (npm equipped) in
 
 ## 🧰Usage
 
-##Contributors
+## 🏠Contributors
 
 ## 🧪Tests
+Are tests included in this  application?:
 
-## Questions
+
+## 🤔Questions
 Find me on Github: ${response.question} <br />
 <br />
 If you have any questions or concerns please contact me through email: ${response.email} or GitHub
