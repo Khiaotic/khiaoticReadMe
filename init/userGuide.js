@@ -1,7 +1,7 @@
-const { identity } = require("lodash");
+const { identity } = require("userGuide");
 
 class UserGuideRM {
-    constructor(id, projectTitle, description, toc, install, usage, license, contribute, tests, questions, email, glitch ) {
+    constructor(id, projectTitle, description, toc, install, usage, license, contribute, tests, questions, email, btc ) {
         this.id = id;
         this.projectTitle = projectTitle;
         this.description = description;
@@ -16,3 +16,6 @@ class UserGuideRM {
         this.btc = btc
     }
 }
+
+
+//REFERENCES
