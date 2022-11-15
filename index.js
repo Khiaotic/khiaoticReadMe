@@ -23,6 +23,16 @@ function readMePrompt() {
     },
     {
       type: "input",
+      name: "preview",
+      message: "Do you have a  preview image? Paste here",
+    },
+    {
+      type: "input",
+      name: "demoLink",
+      message: "Do you have a demo link?  Paste here",
+    },
+    {
+      type: "input",
       name: "installation",
       message: "Describe the installation process?",
     },
