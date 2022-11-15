@@ -1,7 +1,13 @@
 // RESOURCES //
-This Application requires client to have npm and inqurier@8.2.4 downloaded in order to run! 
+This Application requires the client to have npm and inquirer.js (@8.2.4) installed in order to run! 
 
 To download npm  inquirer 8.2.4
     visit: https://www.npmjs.com/package/inquirer/v/8.2.4#installation
 
+To initiate ReadMe Prompt  type 'node index.js' in the terminal
+    -open new terminal
+    -'node index.js'
+    -follow prompt questions and answer
 
+Find finish ReadMe
+    -./deploy/ReadMe
