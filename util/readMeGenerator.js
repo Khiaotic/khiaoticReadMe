@@ -15,10 +15,10 @@ Link to Demo: ${response.demoLink}
 
 ## 📋Table of Contents
 -[License](#license) <br />
--[Overview](#description) <br />
+-[Description](#description) <br />
 -[Installation](#installation) <br />
 -[Usage](#usage) <br />
--[Contributors](#contribute) <br />
+-[Contribute](#contribute) <br />
 -[Tests](#tests) <br />
 -[Questions](#questions) <br />
 
@@ -38,7 +38,7 @@ Are tests included in this application?: ${response.tests}
 
 
 ## 🤔Questions
-Find me on Github: ${response.question} <br />
+Find me on Github: ${response.questions} <br />
 <br />
 If you have any questions or concerns please contact me through email: ${response.email} or GitHub
 
