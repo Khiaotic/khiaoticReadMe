@@ -5,7 +5,7 @@
 <h3 align="center">Given a functional Express.js I want a back end for my e-commerce website to use the latest technologies that compete with other e-commerce companies</h3>
 
 ## 🪪License
-This application is covered by the (https://img.shields.io/badge/License-MIT-yellow)
+This application is covered by the MIT
 ![GitLicense](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 👀Preview and Demo
