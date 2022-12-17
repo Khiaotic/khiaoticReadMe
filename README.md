@@ -6,7 +6,7 @@
 
 ## License
 This application is  covered by the MIT
-
+![GitLicense](https://img.shields.io/badge/License-MIT-yellow)
 ## 👀Preview and Demo
 Preview  image:
 ![preview](https://user-images.githubusercontent.com/112679225/202047446-bf09fad5-8428-416b-bea0-b52eca5469aa.jpg)<br />
