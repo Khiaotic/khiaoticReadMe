@@ -21,7 +21,7 @@ Link to Demo: ${response.demoLink}
 -[Contribute](#🏠Contributors) <br />
 -[Tests](#🧪Tests) <br />
 -[Questions](#🤔Questions) <br />
--[Support](#🤔Questions) <br />
+-[Support](#🪙Support) <br />
 
 
 ## 💢📃Installation
@@ -39,11 +39,11 @@ Are tests included in this application?: ${response.tests}
 
 
 ## 🤔Questions
-Find me on Github: ${response.questions} <br />
+Find me on Github: https://github.com/${response.questions} <br />
 <br />
-If you have any questions or concerns please contact me through email: ${response.email} or GitHub
+If you have any further questions or concerns please contact me through email: ${response.email} or GitHub
 
-## 🪙 Support
+## 🪙Support
 This is FREE, OPEN-SOURCE software. <br />
 If you'd like to support the development of future projects or "say thanks," you can donate BTC at: ${response.btc}.
 

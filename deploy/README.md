@@ -1,25 +1,26 @@
 
-<h1 align="center">A Khiaotic Team Profile Generator </h1>
+<h1 align="center">Khiaotic E-Commerce Back End </h1>
 
 ## ✨Overview (description)✨
-<h3 align="center">a team job title/profile generator capable of generating new employees with ease</h3>
+<h3 align="center">Given a functional Express.js I want a back end for my e-commerce website to use the latest technologies that compete with other e-commerce companies</h3>
 
-## License
-This application is covered by the MIT
+## 🪪License
+This application is covered by the (https://img.shields.io/badge/License-MIT-yellow)
 
 ## 👀Preview and Demo
  
-Link to Demo: nope
+Link to Demo: https://youtu.be/EQTKkwrOHHM
 
 
 ## 📋Table of Contents
--[License](#License) <br />
--[Description](#description) <br />
+-[License](#🪪License) <br />
+-[Description](#✨Overview) <br />
 -[Installation](#💢📃Installation) <br />
--[Usage](#🧰usage) <br />
+-[Usage](#🧰Usage) <br />
 -[Contribute](#🏠Contributors) <br />
 -[Tests](#🧪Tests) <br />
 -[Questions](#🤔Questions) <br />
+-[Support](#🪙Support) <br />
 
 
 ## 💢📃Installation
@@ -30,18 +31,18 @@ To clone and use this application, you'll need Git and Node.js (npm equipped) in
 node index.js
 
 ## 🏠Contributors
-N/A
+Feel free to submit updates for review and acceptance
 
 ## 🧪Tests
-Are tests included in this application?: 4; use npm test to run
+Are tests included in this application?: N/A
 
 
 ## 🤔Questions
-Find me on Github: https://github.com/Khiaotic<br />
+Find me on Github: https://github.com/Khiaotic <br />
 <br />
-If you have any questions or concerns please contact me through email: khifakeemail@gmail.com or GitHub
+If you have any further questions or concerns please contact me through email: KhisFakeEmail@gmail.com or GitHub
 
-## 🪙 Support
+## 🪙Support
 This is FREE, OPEN-SOURCE software. <br />
 If you'd like to support the development of future projects or "say thanks," you can donate BTC at: N/A.
 
