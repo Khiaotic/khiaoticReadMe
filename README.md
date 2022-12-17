@@ -44,7 +44,7 @@ Are tests included in this application?: N/A
 
 
 ## 🤔Questions
-Find me on Github: khiaotic <br />
+Find me on Github: [khiaotic](https://github.com/Khiaotic) <br />
 <br />
 If you have any questions or concerns please contact me through email: dummyemailtemplate@gmail.com or GitHub
 
