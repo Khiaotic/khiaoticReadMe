@@ -5,8 +5,8 @@ function readMeGenerator(response) {
 ## ✨Overview (description)✨
 <h3 align="center">${response.description}</h3>
 
-## License
-This application is  covered by the ${response.license}
+## 🪪License
+This application is covered by the (https://img.shields.io/badge/License-${response.license}-yellow)
 
 ## 👀Preview and Demo
  
@@ -14,13 +14,14 @@ Link to Demo: ${response.demoLink}
 
 
 ## 📋Table of Contents
--[License](#license) <br />
--[Description](#description) <br />
+-[License](#🪪License) <br />
+-[Description](#✨Overview) <br />
 -[Installation](#💢📃Installation) <br />
 -[Usage](#🧰Usage) <br />
 -[Contribute](#🏠Contributors) <br />
 -[Tests](#🧪Tests) <br />
 -[Questions](#🤔Questions) <br />
+-[Support](#🤔Questions) <br />
 
 
 ## 💢📃Installation
