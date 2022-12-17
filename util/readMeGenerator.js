@@ -16,11 +16,11 @@ Link to Demo: ${response.demoLink}
 ## 📋Table of Contents
 -[License](#license) <br />
 -[Description](#description) <br />
--[Installation](#installation) <br />
--[Usage](#usage) <br />
--[Contribute](#contribute) <br />
--[Tests](#tests) <br />
--[Questions](#questions) <br />
+-[Installation](#💢📃Installation) <br />
+-[Usage](#🧰Usage) <br />
+-[Contribute](#🏠Contributors) <br />
+-[Tests](#🧪Tests) <br />
+-[Questions](#🤔Questions) <br />
 
 
 ## 💢📃Installation
