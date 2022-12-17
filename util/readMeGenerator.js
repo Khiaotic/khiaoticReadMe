@@ -6,7 +6,8 @@ function readMeGenerator(response) {
 <h3 align="center">${response.description}</h3>
 
 ## 🪪License
-This application is covered by the (https://img.shields.io/badge/License-${response.license}-yellow)
+This application is covered by the ${response.license}
+![GitLicense](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 👀Preview and Demo
  
